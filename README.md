@@ -10,13 +10,13 @@ You will need an OPENAI API key to run this app.
 
 1. Set the API Key globally as an enviroment variable.
 
-2. After cloning the repository,
-   In project root folder, run:
-   ```pip install -r requirements.txt```
+2. After cloning the repository,<br>
+   In project root folder, run:<br>
+   ```pip install -r requirements.txt```<br>
    ```./start.sh```
 
-3. Navigate to ```chatbot-frontend```
-   In ```chatbot-frontend```, run:
-   ```yarn add -D vite```
+3. Navigate to ```chatbot-frontend```<br>
+   In ```chatbot-frontend```, run:<br>
+   ```yarn add -D vite```<br>
    ```yarn dev```
 
