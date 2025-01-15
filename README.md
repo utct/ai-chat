@@ -1,6 +1,7 @@
 # ARC AI Chat
 
-![Screenshot from 2025-01-14 22-37-42](https://github.com/user-attachments/assets/9bea9a88-bcc5-4579-ad6a-4fc3883414f1)
+![image](https://github.com/user-attachments/assets/42426f94-73ee-4202-a5d8-085a96a2ff5c)
+
 
 
 ## Setting Up
