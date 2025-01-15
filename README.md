@@ -18,5 +18,5 @@ You will need an OPENAI API key to run this app.
 3. Navigate to ```chatbot-frontend```
    In ```chatbot-frontend```, run:
    ```yarn add -D vite```
-   ```yarn run dev```
+   ```yarn dev```
 
